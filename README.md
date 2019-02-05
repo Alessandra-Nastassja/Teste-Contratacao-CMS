@@ -7,9 +7,7 @@ Funcionalidades:
 º Criação e edição de usuario com os sequintes campos:
 
 nome
-
 e-mail
-
 telefone
 
 º Listagem de conteúdos
